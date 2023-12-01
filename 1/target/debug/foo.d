@@ -1,0 +1,1 @@
+/mnt/c/Users/Stephen\ B/Desktop/Advent\ of\ Code\ 2023/1/target/debug/foo: /mnt/c/Users/Stephen\ B/Desktop/Advent\ of\ Code\ 2023/1/src/main.rs /mnt/c/Users/Stephen\ B/Desktop/Advent\ of\ Code\ 2023/1/src/tests.rs
