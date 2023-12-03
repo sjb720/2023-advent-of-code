@@ -1,0 +1,1 @@
+C:\Users\Stephen\ B\Desktop\Advent\ of\ Code\ 2023\3\target\debug\foo.exe: C:\Users\Stephen\ B\Desktop\Advent\ of\ Code\ 2023\3\src\main.rs C:\Users\Stephen\ B\Desktop\Advent\ of\ Code\ 2023\3\src\tests.rs
